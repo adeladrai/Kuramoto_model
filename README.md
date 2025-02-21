@@ -45,7 +45,9 @@ The repository includes the following plots:
 ## Interpretation
 - As $N$ increases, the transition to synchronization becomes sharper around the critical coupling strength $K_c$.
 - The numerical results align with the theoretical prediction of the critical coupling strength in the thermodynamic limit:
+- 
   The critical coupling strength is given by $K_c = \frac{2}{\pi g(0)}$.
+  
   where $g(0)$ is the value of the frequency distribution at its center.
 
 ## Usage
