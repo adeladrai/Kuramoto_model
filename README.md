@@ -57,6 +57,6 @@ To run the simulations and generate the plots:
    git clone https://github.com/your-username/kuramoto-model.git
 
 2. Install the required dependencies:
-  ```bash
-  pip install numpy scipy matplotlib jupyter
+   ```bash
+   pip install numpy scipy matplotlib jupyter
 
