@@ -1,5 +1,7 @@
 # Kuramoto Model Simulation
 
+[Click here to view the assignment PDF](https://www.lptmc.jussieu.fr/user/viot/COURS/homework2.pdf)
+
 This repository contains a numerical simulation of the Kuramoto model, a paradigmatic model of synchronization. The Kuramoto model illustrates how coupled oscillators evolve towards collective oscillation when the coupling exceeds a critical value. This project explores the fundamental properties of the model through numerical simulations.
 
 ## Table of Contents
